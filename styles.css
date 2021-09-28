@@ -35,6 +35,7 @@ textarea{
     width: 35rem;
     margin: 2rem;
     height: 5rem;
+    padding: 0.5rem;
 }
 
 #btn-translate{
